@@ -1,0 +1,20 @@
+.button {
+    position: fixed;
+    z-index: 11;
+    top: 0.75rem;
+    right: 0.75rem;
+    border-radius: 50%;
+    background-color: #ec1d24;
+    border: 2px solid white;
+    color: white;
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 0;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 250ms ease-in-out;
+}
