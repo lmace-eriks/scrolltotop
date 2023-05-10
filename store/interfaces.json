@@ -1,0 +1,6 @@
+{
+  "scrolltotop": {
+    "component": "ScrollToTop",
+    "composition": "children"
+  }
+}
